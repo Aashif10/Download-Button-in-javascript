@@ -1,0 +1,50 @@
+
+
+/* Dom classList methods in javascript */
+/* React video */
+/* Download button  */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#container{
+    width: 350px;
+    height: 80px;
+    background-color: purple;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+}
+#content{
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+}
+#content{
+    background-color: red;
+}
+/* 
+#container::before{
+    content: "";
+    position: absolute;
+      right:62.7%;
+  width: 350px;
+    height: 80px;
+    background-color: rgb(0, 128, 2);
+    border-radius: 40px;
+} */
+
