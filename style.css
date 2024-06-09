@@ -33,18 +33,13 @@ body{
     color: white;
     font-size: 35px;
     font-weight: 700;
+    cursor: pointer;
 }
-#content{
+/* #content{
     background-color: red;
-}
-/* 
-#container::before{
-    content: "";
-    position: absolute;
-      right:62.7%;
-  width: 350px;
-    height: 80px;
-    background-color: rgb(0, 128, 2);
-    border-radius: 40px;
 } */
-
+a{
+    outline: none;
+    text-decoration: none;
+    color: white;
+}
